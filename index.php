@@ -36,7 +36,9 @@
         <div class="col-md-3 left_col">
           <div class="left_col scroll-view">
             <div class="navbar nav_title" style="border: 0;">
-              <a href="index.php" class="site_title"><img src="images/favico.ico" alt="..." class="img-circle profile_img"> <span>Fast buy</span></a>
+              <a href="index.php" class="site_title"><div class="profile_pic">
+                <img src="images/img.jpg" alt="..." class="img-circle profile_img">
+              </div><span>Fast buy</span></a>
             </div>
 
             <div class="clearfix"></div>
