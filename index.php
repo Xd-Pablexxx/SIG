@@ -37,7 +37,7 @@
           <div class="left_col scroll-view">
             <div class="navbar nav_title" style="border: 0;">
               <a href="index.php" class="site_title">
-                <img src="images/icon.ico" alt="..." width="60" height="50"><span> FastBUY</span></a>
+              <img src="images/icon.ico" alt="..." width="40" height="40"><span> FastBUY</span></a>
                 <br>
             </div>
 
